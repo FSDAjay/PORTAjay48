@@ -1,0 +1,29 @@
+.ft-para {
+    font-weight: bold;
+    color: white;
+
+
+}
+
+.ft-span {
+    color: greenyellow;
+}
+
+.top-bt {
+    font-size: 15px;
+    border: 2px solid green;
+    border-radius: 40px;
+    background-color: greenyellow;
+
+
+}
+
+.qui-lnk {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.qui-lnk:hover {
+    color: greenyellow;
+}

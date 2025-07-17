@@ -1,0 +1,31 @@
+/* Project Page */
+.pro-head {
+    font-weight: bold;
+    color: gray;
+}
+
+.pro-h3 {
+    color: green;
+}
+
+.img-fluid {
+    height: 80%;
+
+}
+
+.project-img {
+    height: 100%;
+    width: 100%;
+    border: 2px solid greenyellow;
+}
+
+.project-h6 {
+    font-size: 10px;
+    font-weight: bold;
+    color: gray;
+}
+
+.pro-para {
+    font-weight: bold;
+    color: rgb(151, 148, 148);
+}

@@ -1,0 +1,17 @@
+.soom-2 {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: greenyellow;
+    box-shadow: 0px 0px 20px greenyellow;
+}
+
+.m-p {
+    font-size: 15px;
+    font-weight: bold;
+    color: gray;
+}
+
+input {
+    background-color: transparent;
+}

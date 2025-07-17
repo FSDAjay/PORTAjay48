@@ -1,0 +1,123 @@
+.status {
+    color: white;
+}
+
+.hel-h2 {
+    color: gray;
+}
+
+.name-h2 {
+    color: greenyellow;
+}
+
+
+.para {
+    color: gray;
+    font-weight: bold;
+}
+
+
+/* Container 2 lg-4 */
+.home2 {
+    border-left: 2px greenyellow;
+}
+
+
+.back {
+    /* box-shadow: 0px 0px 20px black; */
+    box-shadow: 0px 0px 20px greenyellow;
+    margin: 0 auto;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    border-radius: 50%;
+
+}
+
+.backimg {
+    left: 6px;
+    top: 10px;
+    position: absolute;
+    height: 290px;
+    width: 290px;
+    border-radius: 50%;
+
+}
+
+.cont {
+    border: 2px solid green !important;
+}
+
+/* Conatiner 3 lg-2 */
+.record {
+    margin-top: 70px;
+    border-radius: 20px;
+    border: 2px solid lightgray;
+    width: 160px;
+    height: 270px;
+    box-shadow: 0px 0px 20px white;
+}
+
+.records-h4 {
+    color: green;
+
+}
+
+.record-para {
+    margin-top: -10px;
+    font-weight: bold;
+    font-size: 12px;
+    color: gray;
+
+}
+
+
+
+.page a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: grey;
+
+}
+
+.page a:hover {
+    color: green;
+}
+
+
+.fa {
+    margin-top: 10px;
+}
+
+.page a span {
+    font-size: 12px;
+}
+
+
+
+
+/* conatiner 4 lg-2 */
+
+li {
+
+    list-style: none;
+}
+
+.page {
+    border-radius: 30px;
+    margin-top: 30px;
+    border: 2px solid lightgray;
+    box-shadow: 0px 0px 20px white;
+    height: 350px;
+    width: 100px;
+}
+
+.page-para {
+    font-size: 10px;
+    font-weight: bolder;
+    color: gray;
+}
